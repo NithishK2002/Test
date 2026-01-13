@@ -49,7 +49,7 @@
           <mxGeometry height="80" width="290" x="270" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=23;" value="&lt;font&gt;&lt;b&gt;Return ERROR&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="82" width="120" x="867" y="1158" as="geometry" />
+          <mxGeometry height="82" width="120" x="825" y="1165" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-61" edge="1" parent="1" source="kCryC6GRpImOY8oYRqHl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=23;">
           <mxGeometry relative="1" as="geometry">
@@ -126,43 +126,43 @@
             <mxPoint x="425" y="1788" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kCryC6GRpImOY8oYRqHl-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" value="&lt;font&gt;&lt;b&gt;With drain no_fallback Behaviour&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="290" x="1057" y="177" as="geometry" />
+        <mxCell id="kCryC6GRpImOY8oYRqHl-117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;" value="&lt;font&gt;&lt;b&gt;With DRAIN no_fallback Behaviour&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="290" x="1135" y="189" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=23;" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;Evaluate Primary Peers&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;font&gt;(skip drained peers)&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="290" x="1059" y="317" as="geometry" />
+          <mxGeometry height="80" width="290" x="1141" y="329" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-120" edge="1" parent="1" source="kCryC6GRpImOY8oYRqHl-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;" target="kCryC6GRpImOY8oYRqHl-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-121" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=23;" value="&lt;font&gt;&lt;b&gt;&lt;font&gt;Any Peer found&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="130" width="135" x="1136.5" y="457" as="geometry" />
+          <mxGeometry height="130" width="135" x="1218.5" y="469" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-122" edge="1" parent="1" source="kCryC6GRpImOY8oYRqHl-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1204" y="927" as="targetPoint" />
+            <mxPoint x="1286" y="939" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-123" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontSize=25;" value="&lt;font&gt;&lt;b&gt;If Backup peers configured?&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="130" width="135" x="1136.5" y="737" as="geometry" />
+          <mxGeometry height="130" width="135" x="1218.5" y="749" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-124" edge="1" parent="1" source="kCryC6GRpImOY8oYRqHl-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=23;" target="kCryC6GRpImOY8oYRqHl-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=23;" value="&lt;b&gt;&lt;font&gt;Route request to the peer&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="78" width="212" x="1394" y="925" as="geometry" />
+          <mxGeometry height="78" width="212" x="1476" y="937" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=23;" value="&lt;div&gt;&lt;b&gt;&lt;font&gt;Evaluate Backup Peers&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;(skip drained peers)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="290" x="1053" y="927" as="geometry" />
+          <mxGeometry height="80" width="290" x="1135" y="939" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=23;" value="&lt;font&gt;&lt;b&gt;Return ERROR&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="82" width="120" x="1656" y="915" as="geometry" />
+          <mxGeometry height="82" width="120" x="1738" y="927" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-154" edge="1" parent="1" source="kCryC6GRpImOY8oYRqHl-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="kCryC6GRpImOY8oYRqHl-131">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1206" y="1246" />
-              <mxPoint x="1716" y="1246" />
+              <mxPoint x="1288" y="1258" />
+              <mxPoint x="1798" y="1258" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -170,33 +170,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-133" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=23;" value="&lt;b&gt;&lt;font&gt;Any Peer found&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="130" width="135" x="1138.5" y="1067" as="geometry" />
+          <mxGeometry height="130" width="135" x="1220.5" y="1079" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-134" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.485;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=23;" target="kCryC6GRpImOY8oYRqHl-133">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1204" y="1007" as="sourcePoint" />
+            <mxPoint x="1286" y="1019" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="&lt;b&gt;YES&lt;/b&gt;" vertex="1">
-          <mxGeometry height="41" width="64" x="1255" y="483" as="geometry" />
+          <mxGeometry height="41" width="64" x="1337" y="495" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="&lt;b&gt;YES&lt;/b&gt;" vertex="1">
-          <mxGeometry height="41" width="64" x="1263.5" y="1079" as="geometry" />
+          <mxGeometry height="41" width="64" x="1345.5" y="1091" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="&lt;b&gt;NO&lt;/b&gt;" vertex="1">
-          <mxGeometry height="41" width="53" x="1212" y="583" as="geometry" />
+          <mxGeometry height="41" width="53" x="1294" y="595" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="&lt;b&gt;NO&lt;/b&gt;" vertex="1">
-          <mxGeometry height="41" width="53" x="1210" y="1202" as="geometry" />
+          <mxGeometry height="41" width="53" x="1292" y="1214" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="&lt;b&gt;YES&lt;/b&gt;" vertex="1">
-          <mxGeometry height="41" width="64" x="1199" y="870" as="geometry" />
+          <mxGeometry height="41" width="64" x="1281" y="882" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="&lt;b&gt;NO&lt;/b&gt;" vertex="1">
-          <mxGeometry height="41" width="53" x="1090" y="769" as="geometry" />
+          <mxGeometry height="41" width="53" x="1172" y="766" as="geometry" />
         </mxCell>
         <mxCell id="kCryC6GRpImOY8oYRqHl-153" edge="1" parent="1" source="kCryC6GRpImOY8oYRqHl-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="kCryC6GRpImOY8oYRqHl-123">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCryC6GRpImOY8oYRqHl-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;glass=0;shadow=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;#Test.http&lt;br&gt;upstream Test {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8441 max_fails=0;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8442 max_fails=0;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8443 max_fails=0 backup;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8444 max_fails=0 backup;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; check interval=10000 rise=2 fall=2 timeout=9000 default_down=true type=http;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; check_http_send &quot;GET /_app/health HTTP/1.0\r\n\r\n&quot;;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; check_http_expect_alive http_2xx;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; drain;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="392" width="660" x="-442" y="432" as="geometry" />
+        </mxCell>
+        <mxCell id="kCryC6GRpImOY8oYRqHl-158" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="815" />
+              <mxPoint x="1100" y="1255" />
+            </Array>
+            <mxPoint x="1218.5" y="815" as="sourcePoint" />
+            <mxPoint x="1292" y="1256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCryC6GRpImOY8oYRqHl-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;#Test.http&lt;br&gt;upstream Test {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8441 max_fails=0;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8442 max_fails=0;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8443 max_fails=0 backup;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; server 172.20.26.170:8444 max_fails=0 backup;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; check interval=10000 rise=2 fall=2 timeout=9000 default_down=true type=http;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; check_http_send &quot;GET /_app/health HTTP/1.0\r\n\r\n&quot;;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; check_http_expect_alive http_2xx;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; drain &lt;span style=&quot;color: rgb(255, 51, 51);&quot;&gt;no_fallback&lt;/span&gt;;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="392" width="730" x="1135" y="1326" as="geometry" />
+        </mxCell>
+        <mxCell id="kCryC6GRpImOY8oYRqHl-160" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=none;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1015" y="1798" as="sourcePoint" />
+            <mxPoint x="1005" y="126" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
